@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotinoHomework", "NotinoHomework\NotinoHomework.csproj", "{A31FC20C-9C04-4497-BA86-B4FFCD44F0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotinoHomework.Tests", "NotinoHomework.Tests\NotinoHomework.Tests.csproj", "{98E4CEB1-0F8B-4CA9-98C5-030E01580B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31FC20C-9C04-4497-BA86-B4FFCD44F0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31FC20C-9C04-4497-BA86-B4FFCD44F0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31FC20C-9C04-4497-BA86-B4FFCD44F0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31FC20C-9C04-4497-BA86-B4FFCD44F0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E4CEB1-0F8B-4CA9-98C5-030E01580B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E4CEB1-0F8B-4CA9-98C5-030E01580B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E4CEB1-0F8B-4CA9-98C5-030E01580B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E4CEB1-0F8B-4CA9-98C5-030E01580B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
